@@ -1,0 +1,1 @@
+# Event-Sourced-Banking-Ledger-TS-SQL-patterns-
